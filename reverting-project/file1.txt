@@ -1,0 +1,5 @@
+apple = 2
+banana = 4
+pineapple = 5
+mango = 8
+watermelon =3
