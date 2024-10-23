@@ -1,4 +1,4 @@
 tomato = 5
 potato = 10
-onion = 9
+onion = 6
 cabbage = 8
